@@ -13,11 +13,11 @@ Staunch is a responsive theme [Hexo](https://hexo.io/), based on Hexo 3.0 + is m
 # Contents
 - [Demo 演示](#demo)
 - [Installation 安装](#installation)
-- [Docs 文档](#docs) | [中文文档](http://staunchkai.com/docs.html)
+- [Docs 文档](#docs)
 - [License 许可证](#license)
 
 # Demo
-- [StaunchKai's Blog](https://staunchkai.com)
+- [StaunchKai's Blog](https://staunchkai.github.io/hexo-theme-staunch-/)
 
 # Installation
 
@@ -45,7 +45,7 @@ search:
   field: post
 ```
 
-# Docs | [中文文档](http://staunchkai.com/docs.html)
+# Docs
 Modify settings in `themes/miho/_config.yml`，Please use it as needed.
 
 ```
